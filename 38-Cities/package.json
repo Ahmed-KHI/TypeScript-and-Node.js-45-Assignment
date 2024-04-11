@@ -1,0 +1,12 @@
+{
+  "name": "38-cities",
+  "version": "1.0.0",
+  "description": "This code demonstrates a function in TypeScript named describe_city that creates informative messages about cities. It accepts the city name and country as arguments, with a default country provided for optional usage.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Strings", "String interpolation"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

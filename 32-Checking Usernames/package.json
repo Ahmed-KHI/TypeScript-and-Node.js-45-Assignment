@@ -1,0 +1,12 @@
+{
+  "name": "32-checking-usernames",
+  "version": "1.0.0",
+  "description": "This code demonstrates using arrays, loops, and conditional statements in TypeScript to simulate username availability checking on a website. It iterates through new usernames, comparing them (case-insensitively) to existing usernames and printing messages based on availability.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "Loops", "Conditional statements", "Array methods", "Strings"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

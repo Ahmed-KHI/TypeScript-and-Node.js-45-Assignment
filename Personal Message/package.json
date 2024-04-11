@@ -1,0 +1,15 @@
+{
+  "name": "personal-message",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates the creation and utilization of a string variable to store a person's name and then constructs a personalized greeting message using string interpolation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Personalized Greeting", "String Interpolation", "Variable Assignment", "Basic Output"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}

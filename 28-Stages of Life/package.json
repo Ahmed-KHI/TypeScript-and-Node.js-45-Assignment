@@ -1,0 +1,12 @@
+{
+  "name": "28-stages-of-life",
+  "version": "1.0.0",
+  "description": "This code demonstrates conditional statements (specifically if-else if chains) in TypeScript to determine a person's stage of life based on their age.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Conditional statements", "Conditional comparison operators", "Variables", "Numbers"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

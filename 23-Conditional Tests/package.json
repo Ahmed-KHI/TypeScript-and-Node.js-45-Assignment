@@ -1,0 +1,12 @@
+{
+  "name": "23-conditional-tests",
+  "version": "1.0.0",
+  "description": "This code snippet explores basic conditional testing in TypeScript. It demonstrates how to use comparison operators (==, !=, >, <, etc.) to evaluate expressions and produce boolean results (True or False).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Variables", "number type", "Conditional operators", "Boolean expressions", "Console output", "Basic arithmetic", "Logical operators"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

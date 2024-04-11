@@ -1,0 +1,12 @@
+{
+  "name": "40-album",
+  "version": "1.0.0",
+  "description": "This code demonstrates a function in TypeScript named make_album that creates and returns objects representing music albums. It takes artist name and album title as mandatory parameters and offers an optional parameter for the number of tracks.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Object types", "Conditional statements", "Return statements"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

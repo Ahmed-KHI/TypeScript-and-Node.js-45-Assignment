@@ -1,0 +1,12 @@
+{
+  "name": "37-large-shirts",
+  "version": "1.0.0",
+  "description": "This code demonstrates a function in TypeScript named make_shirt that simulates creating custom t-shirts with default and optional arguments. It allows specifying the size and message printed on the shirt.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Strings", "String interpolation"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

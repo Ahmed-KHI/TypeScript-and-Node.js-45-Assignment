@@ -1,0 +1,12 @@
+{
+  "name": "18-seeing-the-world",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates working with arrays in various orders: original, alphabetical, reversed, and sorted. It utilizes spread syntax (...) and array methods (sort, reverse) to manipulate copies of the array while preserving the original order.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "string type", "Array methods", "sort method", "reverse method", "Spread operator", "Data manipulation", "Mutability"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

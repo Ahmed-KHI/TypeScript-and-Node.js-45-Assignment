@@ -1,0 +1,12 @@
+{
+  "name": "13-your-own-array",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates iterating through an array of favorite transportation modes and printing personalized statements expressing a desire to own them using string interpolation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "string type", "forEach loop", "String formatting", "Template literals"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

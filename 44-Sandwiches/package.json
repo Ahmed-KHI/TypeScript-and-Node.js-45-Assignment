@@ -1,0 +1,12 @@
+{
+  "name": "44-sandwiches",
+  "version": "1.0.0",
+  "description": "This code defines a function in TypeScript named makeSandwich that creates a formatted summary of a sandwich based on provided ingredients. It uses a rest parameter to accept a variable number of arguments representing the sandwich ingredients.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Rest parameters", "forEach loop"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

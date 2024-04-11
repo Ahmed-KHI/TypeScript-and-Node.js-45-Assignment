@@ -1,0 +1,12 @@
+{
+  "name": "21-exercise-no",
+  "version": "1.0.0",
+  "description": "This code demonstrates the use of interfaces and objects in TypeScript to create structured representations of real-world entities. The provided example focuses on defining a movie interface with properties commonly associated with movies. However, the concept of interfaces and objects can be applied to store information about various items.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Interfaces", "Defining data structure", "string type", "number type", "string[] type", "Data modeling"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

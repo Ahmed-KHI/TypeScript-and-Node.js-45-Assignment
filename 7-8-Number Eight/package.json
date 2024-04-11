@@ -1,0 +1,12 @@
+{
+  "name": "7-8-number-eight",
+  "version": "1.0.0",
+  "description": "This basic TypeScript code demonstrates performing simple arithmetic operations (addition, subtraction, multiplication, and division) with numeric values.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Basic arithmetic", "Numeric operations", "console.log", "Math", "Beginner code"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

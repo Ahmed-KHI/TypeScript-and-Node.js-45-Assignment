@@ -1,0 +1,12 @@
+{
+  "name": "43-unchanged-magicians",
+  "version": "1.0.0",
+  "description": "This code demonstrates functions in TypeScript to manipulate magician names while preserving the original array.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Arrays", "forEach loop", "map method", "slice method"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "42-great-magicians",
+  "version": "1.0.0",
+  "description": "This code demonstrates two functions in TypeScript to manage magician names, One(show_magicians: Prints the names of magicians from an array). Two(make_great: Modifies an array of magician names by adding 'The Great' before each name).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Arrays", "forEach loop", "map method"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

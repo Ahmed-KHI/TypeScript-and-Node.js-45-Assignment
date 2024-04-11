@@ -1,0 +1,12 @@
+{
+  "name": "34-pizzas",
+  "version": "1.0.0",
+  "description": "This code demonstrates using a for loop in TypeScript to iterate over an array of pizza names and print messages expressing your pizza preferences.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "Loops", "Strings", "String interpolation"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

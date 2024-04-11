@@ -1,0 +1,12 @@
+{
+  "name": "33-ordinal-numbers",
+  "version": "1.0.0",
+  "description": "This code demonstrates using a for loop and conditional statements (if-else chain) in TypeScript to convert numbers (1-9) into their corresponding ordinal representations (1st, 2nd, 3rd, etc.).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "Loops", "Conditional statements", "Strings"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "29-favorite-fruit",
+  "version": "1.0.0",
+  "description": "This code demonstrates the use of arrays and conditional statements (independent if statements) in TypeScript. It checks if specific fruits are included within a favorite fruits array.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "Array methods", "Conditional statements", "Strings"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

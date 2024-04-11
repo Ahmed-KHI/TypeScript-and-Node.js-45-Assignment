@@ -1,0 +1,12 @@
+{
+  "name": "16-more-guests",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates dynamic guest list management for a dinner party, showcasing array manipulation techniques like splice, unshift, push, and forEach to add, remove, and iterate through the list.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "string type", "Array manipulation", "unshift method", "splice method", "push method", "Lists", "forEach loop", "Data manipulation", "Dinner party planning"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

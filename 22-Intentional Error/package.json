@@ -1,0 +1,12 @@
+{
+  "name": "22-intentional-error",
+  "version": "1.0.0",
+  "description": "This code snippet explores array access and potential errors in TypeScript. It creates an array of strings (errorArray) and demonstrates how attempting to access an element using an invalid index can lead to errors.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "Array indexing", "string type", "Error handling", "Debugging"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

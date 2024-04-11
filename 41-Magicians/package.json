@@ -1,0 +1,12 @@
+{
+  "name": "41-magicians",
+  "version": "1.0.0",
+  "description": "This code demonstrates a function in TypeScript named show_magicians that iterates over an array of magician names and prints each name to the console.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Arrays", "forEach loop"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

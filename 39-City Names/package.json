@@ -1,0 +1,12 @@
+{
+  "name": "39-city-names",
+  "version": "1.0.0",
+  "description": "This code demonstrates a function in TypeScript named city_country that creates formatted strings representing city and country combinations. It takes the city name and country as arguments and returns a single string combining them with a comma and space.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Functions", "Parameters", "Return types", "String interpolation", "Return statements"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "3-name-cases",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates converting a person's name (stored in a variable) to lowercase, uppercase, and title case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "String manipulation", "toLowerCase method", "toUpperCase method", "Basic syntax"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}

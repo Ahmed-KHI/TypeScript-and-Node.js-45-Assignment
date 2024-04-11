@@ -1,0 +1,12 @@
+{
+  "name": "45-cars",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates creating car objects with optional properties using a function create_car and an interface Car to enforce type safety.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["typescript", "cars", "objects"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

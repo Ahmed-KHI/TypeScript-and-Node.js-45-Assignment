@@ -1,0 +1,12 @@
+{
+  "name": "15-changing-guest-list",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates managing a guest list by removing and adding a guest, then iterating through the updated list to print personalized dinner invitations using string interpolation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "string type", "String manipulation", "forEach loop", "splice method", "Data manipulation", "Lists"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

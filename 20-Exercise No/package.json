@@ -1,0 +1,12 @@
+{
+  "name": "20-exercise-no",
+  "version": "1.0.0",
+  "description": "This TypeScript code explores array creation and iteration by demonstrating a list of programming languages. It's a versatile foundation for representing diverse data collections and can be easily adapted to other scenarios.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "string type", "forEach loop", "Basic syntax"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

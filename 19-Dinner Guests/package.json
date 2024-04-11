@@ -1,0 +1,12 @@
+{
+  "name": "19-dinner-guests",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates determining and printing the number of guests invited to a dinner party using an array and its length property.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "string type", "length property", "Data manipulation"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

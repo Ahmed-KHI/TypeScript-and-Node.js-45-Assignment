@@ -1,0 +1,12 @@
+{
+  "name": "10-adding-comments",
+  "version": "1.0.0",
+  "description": "This simple TypeScript code demonstrates the use of comments to explain code functionality and includes examples of basic operations like printing a message and performing multiplication.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Hello World", "Basic programming concepts", "console.log", "Arithmetic operators", "Beginner code"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "5-famous-quote-2",
+  "version": "1.0.0",
+  "description": "This TypeScript file demonstrates a basic string interpolation technique to create a formatted message combining a quote and its attribution.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "String formatting", "Template literals", "Quotes", "Basic syntax"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

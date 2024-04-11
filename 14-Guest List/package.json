@@ -1,0 +1,12 @@
+{
+  "name": "14-guest-list",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates iterating through an array of guest names and printing personalized dinner invitations using string interpolation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "Arrays", "string type", "forEach loop", "String formatting", "Template literals", "Lists"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}

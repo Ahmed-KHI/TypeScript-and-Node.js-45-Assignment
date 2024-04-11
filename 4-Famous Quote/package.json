@@ -1,0 +1,12 @@
+{
+  "name": "4-famous-quote",
+  "version": "1.0.0",
+  "description": "This TypeScript code demonstrates string interpolation to construct and print a famous quote along with its author's name.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["TypeScript", "strings", "formatting", "Template literals", "Quotes", "Basic syntax"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC"
+}
